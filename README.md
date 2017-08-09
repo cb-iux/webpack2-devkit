@@ -1,6 +1,6 @@
 # Webpack 2 Devkit
 
-COMMANDS:
+COMMANDS:  
 
 Install:
 $ npm init
